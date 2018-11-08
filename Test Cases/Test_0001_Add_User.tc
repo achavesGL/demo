@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test_0001_Add_User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3221c639-4015-431b-8c87-6a18c02aaa30</testCaseGuid>
+   <variable>
+      <defaultValue>'Alex'</defaultValue>
+      <description></description>
+      <id>cda1dc04-9395-431b-8bb3-23795110c283</id>
+      <masked>false</masked>
+      <name>varName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Chaves'</defaultValue>
+      <description></description>
+      <id>4350a285-6e1d-4f85-a04a-08a523b04c91</id>
+      <masked>false</masked>
+      <name>varLast</name>
+   </variable>
+   <variable>
+      <defaultValue>'achaves'</defaultValue>
+      <description></description>
+      <id>368eb289-4c84-46da-a889-98539f58d454</id>
+      <masked>false</masked>
+      <name>varUser</name>
+   </variable>
+   <variable>
+      <defaultValue>'1234'</defaultValue>
+      <description></description>
+      <id>1551f160-717f-469e-837c-1957fa623e63</id>
+      <masked>false</masked>
+      <name>varPass</name>
+   </variable>
+</TestCaseEntity>
